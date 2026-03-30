@@ -1,0 +1,8 @@
+{
+  "routes": [
+    {
+      "src": "/api/todi",
+      "dest": "/api/todi.js"
+    }
+  ]
+}
